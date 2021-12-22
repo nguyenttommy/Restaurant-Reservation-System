@@ -1,0 +1,66 @@
+.title-1 {
+    position: fixed;
+    margin-top: 0;
+    width: 101%;
+    padding-bottom: 20px;
+    background-color: darkgrey;
+  }
+  
+  .col-100 {
+      display: flex;
+      width: 101%;
+      top: 0;
+      height: 100%;
+      
+      
+  }
+  
+  .col-15 {
+      display: flex;
+      width: 16%;
+      margin-top: 100px;
+      background-color: lightblue;
+      
+
+  
+  }
+
+  .col-15-display {
+      display: inline-block;
+      position: fixed;
+      margin-top: 20px;
+  }
+  
+  .panel-body {
+      margin-bottom: 10px;
+  }
+  .col-37 {
+      display: flex;
+      width: 42.5%;
+      margin-top: 100px;
+      background-color: skyblue;
+  }
+
+  .table-1{
+    margin-top: 20px;
+    width: fit-content;
+    height: 100px;
+    margin-bottom: 100px;
+    text-align: center;
+    border-spacing: 1.2rem;
+    
+
+  }
+  
+  .col-372 {
+      display: flex;
+      width: 42.5%;
+      margin-top: 100px;
+      background-color: steelblue ;
+  }
+  
+  
+  span {
+    position: fixed;
+    
+  }

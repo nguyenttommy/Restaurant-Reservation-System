@@ -1,0 +1,10 @@
+.App {
+  text-align: center;
+  background-color: rgb(204, 201, 195);
+}
+
+.container{
+  padding-top:70px;
+  width: 101%;
+  margin-left: -10px;
+}

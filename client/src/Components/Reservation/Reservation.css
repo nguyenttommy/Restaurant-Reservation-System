@@ -1,0 +1,213 @@
+.res-background{
+
+    background-Position: center center;
+    height:100%;
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-color: rgba(184, 179, 179, 0.75);
+    margin-bottom: 50px;
+    
+   
+    
+    
+}
+
+.res-form{
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 20px;
+    
+  }
+  .err-msg{
+    padding:5px 15px;
+    font-size: 10px;
+    color: red;
+    margin-bottom: 15px;
+    background-color: rgba(255,255,255,0.75);
+    border-radius: 16px 16px 16px 16px;
+  }
+
+  .title-res{
+    background-color: #313131;
+    border: 2px solid whitesmoke;
+    color:white;
+    
+  }
+  .btn-container{
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 20px;
+    
+  }
+  .btn-clear{
+    width:100%;
+    color:whitesmoke;
+    font-size:17px;
+    font-weight:600;
+    background-color:rgb(167, 41, 41);
+    border-radius: 20%;
+    padding:20px 15px;
+   
+    
+  }
+  .btn-submit{
+    width:100%;
+    color:whitesmoke;
+    font-size:17px;
+    font-weight:600;
+    background-color:#333;
+    border-radius: 20%;
+    padding:20px 5px;
+    
+    
+  }
+
+  .res-form .form1{
+    display:block;
+    width: 20%;
+    padding:15px; 
+    margin-bottom: 15px;
+    text-align: left;
+   
+    appearance: none;
+    background: rgb(7, 7, 7);
+    border:none;
+    outline:none;
+    background-color: rgba(255,255,255,0.5);
+    border-radius: 16px 16px 16px 16px;
+   
+    box-shadow: 0px 5px rgba(0,0,0,0.2);
+  
+    color:#080808;
+    font-size:20px;
+  
+    transition: 0.4s ease;
+  }
+ 
+  .res-form .form2{
+    display:block;
+    width: 15%;
+    padding:14px; 
+    margin-bottom: 15px;
+    text-align: center;
+    
+   
+    appearance: none;
+    background: white;
+    border:none;
+    outline:none;
+    background-color: rgba(255,255,255,0.5);
+    border-radius: 16px 16px 16px 16px;
+   
+    box-shadow: 0px 5px rgba(0,0,0,0.2);
+  
+    color:#313131;
+    font-size:20px;
+  
+    transition: 0.4s ease; 
+  }
+  .form2{
+    display:block;
+    width: 15%;
+    padding:14px; 
+    margin-bottom: 15px;
+    text-align: center;
+    
+   
+    appearance: none;
+    background: white;
+    border:none;
+    outline:none;
+    background-color: rgba(255,255,255,0.5);
+    border-radius: 16px 16px 16px 16px;
+   
+    box-shadow: 0px 5px rgba(0,0,0,0.2);
+  
+    color:#313131;
+    font-size:20px;
+  
+    transition: 0.4s ease; 
+  }
+
+  .res-form .form3{
+    display:block;
+    width: 12.3%;
+    padding:10px; 
+    margin-bottom: 15px;
+    text-align: center;
+    
+   
+    appearance: none;
+    background: white;
+    border:none;
+    outline:none;
+    background-color: rgba(255,255,255,0.5);
+    border-radius: 16px 16px 16px 16px;
+   
+    box-shadow: 0px 5px rgba(0,0,0,0.2);
+  
+    color:#313131;
+    font-size:20px;
+  
+    transition: 0.4s ease; 
+  }
+
+  .res-form .form4{
+    display:block;
+    width: 200px;
+    padding:10px; 
+    margin-bottom: 15px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    
+    text-align-last:center;
+    
+    direction: ltr;
+   
+    appearance: none;
+    background: white;
+    border:none;
+    outline:none;
+    background-color: rgba(255,255,255,0.5);
+    border-radius: 16px 16px 16px 16px;
+   
+    box-shadow: 0px 5px rgba(0,0,0,0.2);
+  
+    color:#313131;
+    font-size:20px;
+  
+    transition: 0.4s ease; 
+  }
+  .res-form .form5{
+    display:block;
+    width: 250px;
+    padding:10px; 
+    margin-bottom: 15px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    
+    text-align-last:center;
+    
+    direction: ltr;
+   
+    appearance: none;
+    background: white;
+    border:none;
+    outline:none;
+    background-color: rgba(255,255,255,0.5);
+    border-radius: 16px 16px 16px 16px;
+   
+    box-shadow: 0px 5px rgba(0,0,0,0.2);
+  
+    color:#313131;
+    font-size:20px;
+  
+    transition: 0.4s ease; 
+  }
+  

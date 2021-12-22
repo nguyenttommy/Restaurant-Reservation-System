@@ -1,0 +1,18 @@
+.bottom{
+    background-color: #333;
+    position:fixed;
+    width:101%;
+    height:5%;
+    margin:0;
+    padding:0;
+    bottom:0;
+    margin-left: -10px;
+    margin-bottom: 0px;
+    
+    overflow: hidden;
+}
+.message{
+    color:white;
+    text-align: center;
+    font-size:20px;
+}

@@ -1,0 +1,82 @@
+:root {
+  --gradientColor: linear-gradient(90deg, #ffcccc, #ccffff);
+}
+
+.register-page {
+  width: 100%;
+  margin: -15rem auto 0 auto;
+  padding-top: 300px;
+}
+
+p {
+  text-align: center;
+}
+
+#title {
+  margin-top: 0;
+  margin-bottom: 0.5rem;
+  text-align: center;
+}
+
+/* form {
+    background: var(--gradientColor);
+    width: 60%;
+    display: block;
+    padding: 2.5rem 0.625rem;
+    border-radius: 0.25rem;
+    box-sizing: border-box;
+    margin: auto;
+} */
+
+.register-form-group {
+  margin: 0 auto 1.25rem auto;
+  padding: 0.25rem;
+  display: block;
+}
+
+.form-control {
+  
+  display: inline-block;
+  width: 95%;
+  height: 2.375rem;
+  padding: 0.375rem 0.75rem;
+  color: #495057;
+  background-color: #fff;
+  border: 1px solid #ced4da;
+  border-radius: 0.25rem;
+}
+
+.col-50 {
+  float: left;
+}
+
+.checkAddress {
+  clear: left;
+}
+
+/* #state {
+  width: 50%;
+  padding: 0.375rem 0.2rem; 
+}
+
+#zip {
+  width: 50%;
+  padding: 0.375rem 1rem;
+} */
+
+/* button {
+  background-color: #04AA6D;
+  color: white;
+  padding: 1rem 0.75rem;
+  margin: auto;
+  border: none;
+  cursor: pointer;
+  width: 50%;
+  display: block;
+} */
+
+button:hover {
+  opacity: 0.8;
+}
+
+
